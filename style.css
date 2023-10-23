@@ -168,7 +168,7 @@ section h5>i {
 }
 
 .content {
-    width: 80%;
+    width: 100%;
     display: grid;
     margin: 0 auto;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
